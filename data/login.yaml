@@ -1,0 +1,48 @@
+login_001:
+  phone: "18610453007"
+  pwd: "qq123456"
+  nickname: "itheima"
+login_002:
+  phone: " 18610453007"
+  pwd: "qq123456"
+  nickname: "itheima"
+login_003:
+  phone: "18610453007 "
+  pwd: "qq123456"
+  nickname: "itheima"
+login_008:
+  phone: "18610453006"
+  pwd: "qq123456"
+  msg: "账号还未注册"
+login_009:
+  phone: "186104530066"
+  pwd: "qq123456"
+  msg: "账号还未注册"
+login_010:
+  phone: "1861045300"
+  pwd: "qq123456"
+  msg: "账号还未注册"
+login_011:
+  phone: "00011122212"
+  pwd: "qq123456"
+  msg: "账号还未注册"
+login_012:
+  phone: "itheima1"
+  pwd: "qq123456"
+  msg: "账号还未注册"
+login_006:
+  phone: " "
+  pwd: "sss"
+  toast: "不能为空"
+login_007:
+  phone: "18610453007"
+  pwd: " "
+  toast: "不能为空"
+login_004:
+  phone: ""
+  pwd: "123"
+  clickable: "false"
+login_005:
+  phone: "123"
+  pwd: ""
+  clickable: "false"

@@ -1,0 +1,150 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1572005547721" stop="1572005702367">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1572005547721" status="passed" stop="1572005640763">
+      <name>TestLogin.test_login[18610453007-qq123456-itheima-None-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005640766" status="passed" stop="1572005651866">
+      <name>TestLogin.test_login[ 18610453007-qq123456-itheima-None-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005651868" status="passed" stop="1572005664237">
+      <name>TestLogin.test_login[18610453007 -qq123456-itheima-None-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005664241" status="passed" stop="1572005670830">
+      <name>TestLogin.test_login[18610453006-qq123456-None-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005670836" status="passed" stop="1572005675500">
+      <name>TestLogin.test_login[186104530066-qq123456-None-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005675501" status="passed" stop="1572005680158">
+      <name>TestLogin.test_login[1861045300-qq123456-None-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005680159" status="passed" stop="1572005684932">
+      <name>TestLogin.test_login[00011122212-qq123456-None-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005684933" status="passed" stop="1572005689580">
+      <name>TestLogin.test_login[itheima1-qq123456-None-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005689582" status="passed" stop="1572005693453">
+      <name>TestLogin.test_login[ -sss-None-None-\u4e0d\u80fd\u4e3a\u7a7a-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005693455" status="passed" stop="1572005696768">
+      <name>TestLogin.test_login[18610453007- -None-None-\u4e0d\u80fd\u4e3a\u7a7a-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005696769" status="passed" stop="1572005699571">
+      <name>TestLogin.test_login[-123-None-None-None-false]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1572005699572" status="passed" stop="1572005702367">
+      <name>TestLogin.test_login[123--None-None-None-false]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1104-MainThread"/>
+        <label name="host" value="DESKTOP-83FNUU4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
